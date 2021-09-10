@@ -1,7 +1,7 @@
 ---
 layout: default
-image: https://treasured-possessions.fitzmuseum.cam.ac.uk/images/Loan_MAA-1883.692B.jpeg
-large: https://treasured-possessions.fitzmuseum.cam.ac.uk/images/Loan_MAA-1883.692B.jpeg
+image: https://treasured-possessions.fitzmuseum.cam.ac.uk/images/Loan_MAA-1883.692B.jpg
+large: https://treasured-possessions.fitzmuseum.cam.ac.uk/images/Loan_MAA-1883.692B.jpg
 title: Pair of shoes
 order: 27
 ---
