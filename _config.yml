@@ -23,7 +23,7 @@ email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   "A dazzling journey through the decorative arts: from the hand-crafted luxuries
   of the Renaissance to the first stirrings of mass commerce in the Enlightenment."
-baseurl: "/treasured-possessions" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://treasured-possessions.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
