@@ -2,7 +2,7 @@
 title: The First Book of Fashion
 layout: default
 order: 3
-image: /images/
+image: https://treasured-possessions.fitzmuseum.cam.ac.uk/images/Loan_Schwarz.jpeg
 ---
 
 Professor Ulinka Rublack, Professor of Early Modern European History at the University of Cambridge, has been investigating the history of Matthäus Schwarz, a 16th Century accountant in the German city of Augsburg.

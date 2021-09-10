@@ -1,7 +1,7 @@
 ---
 title: Objects in focus
 layout: default
-image: ''
+image: https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa30/preview_PER_M_365__26_A_B_1923_1_201407_jas244_mas.jpg
 order: 1
 ---
 

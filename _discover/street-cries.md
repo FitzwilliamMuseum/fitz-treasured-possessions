@@ -2,7 +2,7 @@
 title: Street Cries
 layout: default
 order: 4
-image:
+image: https://treasured-possessions.fitzmuseum.cam.ac.uk/images/brambilla_map.jpeg
 ---
 
 Visitors to early modern Rome would often bring home prints of the ancient and modern sites of the city as reminders of their visit. This printed grid of Roman street vendors is one such souvenir. Those who go selling and working around Rome, shows goods sold on the streets of the city, including hot and cold food, household items and beauty products.
