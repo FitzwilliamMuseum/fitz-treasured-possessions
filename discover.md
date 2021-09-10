@@ -13,7 +13,7 @@ title: Discover the exhibition
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
         <a href="{{site.baseurl}}{{ author.url }}" class="stretched-link">
-          <img class="card-img-top" src="{{author.image}}" alt="Card image cap" width="300" height="300"/>
+          <img class="img-fluid" src="{{author.image}}" alt="Card image cap" width="300" height="300"/>
         </a>
         <div class="card-body">
           <h3 class="lead mt-2">
