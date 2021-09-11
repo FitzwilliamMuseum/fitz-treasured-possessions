@@ -66,6 +66,41 @@ images:
     image: /images/trachtenbuch/processed/031.jpg
   -
     image: /images/trachtenbuch/processed/032.jpg
+  -
+    image: /images/trachtenbuch/processed/033.jpg
+  -
+    image: /images/trachtenbuch/processed/034.jpg
+  -
+    image: /images/trachtenbuch/processed/035.jpg
+  -
+    image: /images/trachtenbuch/processed/036.jpg
+  -
+    image: /images/trachtenbuch/processed/037.jpg
+  -
+    image: /images/trachtenbuch/processed/038.jpg
+  -
+    image: /images/trachtenbuch/processed/039.jpg
+  -
+    image: /images/trachtenbuch/processed/040.jpg
+  -
+    image: /images/trachtenbuch/processed/041.jpg
+  -
+    image: /images/trachtenbuch/processed/042.jpg
+  -
+    image: /images/trachtenbuch/processed/043.jpg
+  -
+    image: /images/trachtenbuch/processed/044.jpg
+  -
+    image: /images/trachtenbuch/processed/045.jpg
+  -
+    image: /images/trachtenbuch/processed/046.jpg
+  -
+    image: /images/trachtenbuch/processed/047.jpg
+  -
+    image: /images/trachtenbuch/processed/048.jpg
+  -
+    image: /images/trachtenbuch/processed/049.jpg
+
 ---
 
 Here is a selection of 50 pages from Hans Weigel’s Trachtenbuch (Costume Book), which was published in Nuremberg in 1577. The original is owned by Trinity College, Cambridge (ref: L.11.33).
