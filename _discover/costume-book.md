@@ -56,6 +56,16 @@ images:
     image: /images/trachtenbuch/processed/026.jpg
   -
     image: /images/trachtenbuch/processed/027.jpg
+  -
+    image: /images/trachtenbuch/processed/028.jpg
+  -
+    image: /images/trachtenbuch/processed/029.jpg
+  -
+    image: /images/trachtenbuch/processed/030.jpg
+  -
+    image: /images/trachtenbuch/processed/031.jpg
+  -
+    image: /images/trachtenbuch/processed/032.jpg
 ---
 
 Here is a selection of 50 pages from Hans Weigel’s Trachtenbuch (Costume Book), which was published in Nuremberg in 1577. The original is owned by Trinity College, Cambridge (ref: L.11.33).
