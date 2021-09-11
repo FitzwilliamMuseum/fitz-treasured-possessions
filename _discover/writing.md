@@ -3,15 +3,22 @@ title: Carol Ann Duffy, Sarah Dunant, Ali Smith
 layout: default
 order: 5
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/aa/aa30/preview_C_61_1927_201407_jas244_mas.jpg
+audio:
+  -
+    file: http://downloads.sms.cam.ac.uk/2067483/2067489.mp3
+  -
+    file: http://downloads.sms.cam.ac.uk/2067494/2067501.mp3
+
 ---
 
 Poet Laureate Carol Ann Duffy, novelist, broadcaster and critic Sarah Dunant and award winning writer Ali Smith were invited to respond to the Fitzwilliam’s Treasured Possessions exhibition by writing a new piece of work inspired by an object from the show. These were first heard at a gala reading held at the Fitzwilliam Museum on Thursday 3 September 2015 and their works are reproduced here.
 
-An audio recording of the event, Writing Lives and Treasured Possessions, may be downloaded using the following links:
-
-Part one | Part two (.mp3)
-
-To download, right-click on the link and select save or save as
+An audio recording of the event (split into two parts), Writing Lives and Treasured Possessions, can be  listened to below:
+{% for file in page.audio %}
+<audio id="player" class="js-player mb-3" controls>
+  <source src="{{ file.file }}" type="audio/mp3" />
+</audio>
+{% endfor %}
 
 ## Oval map sampler
 
