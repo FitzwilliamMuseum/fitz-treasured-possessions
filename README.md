@@ -1,13 +1,21 @@
-# Template Jekyll - Fitzwilliam
+# Treasuered Possessions -  Fitzwilliam Museum
 
-Holding webpages for a forthcoming exhibition or online gallery archives.
+A ported website for the 2015 Fitzwilliam exhibition.
+
+A dazzling journey through the decorative arts: from the hand-crafted luxuries of the Renaissance to the first stirrings of mass commerce in the Enlightenment.
+
+Each of the 300 beautiful and engaging objects was once a treasured possession, revealing the personal tastes and aspirations of its owner, and preserving precious memories.
+
+Witness the impact of global trade on European tastes: the lust for goods imported from the East, the revolutions caused by New World products like chocolate and sugar. European shoppers were lured by dazzling colours, intricate designs, constant technological innovation and the glamour of the exotic.
+
+![Treasure Possessions social card](/images/layouts/treasured.jpg)
 
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
-   `git clone https://github.com/FitzwilliamMuseum/fitz-jekyll-Template.git reponame`
+   `git clone https://github.com/FitzwilliamMuseum/fitz-treasured-possessions`
 * Install the gems
    `bundle install`
 * Change to the directory and then run this command in terminal `bundle exec jekyll serve`
@@ -23,4 +31,4 @@ GPL V3 for code, CC-BY-NC-SA-ND for content (text and images) unless stated othe
 
 ## Contributing guidelines
 
-If you want to contribute fixes to this site, you are very welcome to do so. To do this, either add a [bug report under issues](https://github.com/FitzwilliamMuseum/fitz-jekyll-Template/issues) or fork the repository and create a new branch for proposed fixes and then submit a pull request.
+If you want to contribute fixes to this site, you are very welcome to do so. To do this, either add a [bug report under issues](https://github.com/FitzwilliamMuseum/fitz-treasured-possessions/issues) or fork the repository and create a new branch for proposed fixes and then submit a pull request.
