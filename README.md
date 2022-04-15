@@ -1,5 +1,7 @@
 # Treasuered Possessions -  Fitzwilliam Museum
 
+[![DOI](https://zenodo.org/badge/405088234.svg)](https://zenodo.org/badge/latestdoi/405088234)
+
 A ported website for the 2015 Fitzwilliam exhibition.
 
 A dazzling journey through the decorative arts: from the hand-crafted luxuries of the Renaissance to the first stirrings of mass commerce in the Enlightenment.
